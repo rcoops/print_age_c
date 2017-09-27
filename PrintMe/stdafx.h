@@ -4,12 +4,10 @@
 //
 
 #pragma once
+#pragma warning(disable: 4996)
 
 #include "targetver.h"
 
 #include <stdio.h>
 #include <tchar.h>
-
-
-
-// TODO: reference additional headers your program requires here
+#include <conio.h>

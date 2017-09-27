@@ -24,15 +24,12 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="printMe.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="printMe.cpp">
+    <ClCompile Include="printme1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
